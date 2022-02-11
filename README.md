@@ -20,7 +20,6 @@
 
 <br>
 
-![snake gif](https://github.com/kalaoglusedef/kalaoglusedef/blob/output/github-contribution-grid-snake.gif)
 
 
 
