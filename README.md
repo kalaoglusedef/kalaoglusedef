@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love learning new information, doing research, reading, traveling and animals.
 
 <br>
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kalaoglusedef&show_icons=true&theme=radical)
+![Github](https://github-readme-stats.vercel.app/api?username=kalaoglusedef&show_icons=true&theme=gradient) 
 <br>
 
 
