@@ -22,7 +22,7 @@
 
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kalaoglusedef&show_icons=true&theme=dark&locale=en" alt="kalaoglusedef" width="50%" /></p>
+<p align="left" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=kalaoglusedef&show_icons=true&theme=dark&locale=en" alt="kalaoglusedef" width="50%" /></p>
 
 
 
