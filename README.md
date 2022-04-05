@@ -20,9 +20,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26px" /> 
 
-<br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalaoglusedef&show_icons=true&theme=dark&locale=en" alt="kalaoglusedef" width="50%" />
 
 
 
